@@ -15,3 +15,11 @@ Now I need to upload the foto to ebay. Grrr the image is not easily accessible. 
 of Chromium should have a simple way to fetch files from gdrive/nextcloud/dropbox/....
 
 
+## Less flavours of Ubuntu
+
+There are several [flavours of Ubuntu](https://ubuntu.com/download/flavours).
+
+I think maintaining them costs time and money.
+
+It is not my time and money, but it would be my time and money, I would reduce the number of flavours.
+
